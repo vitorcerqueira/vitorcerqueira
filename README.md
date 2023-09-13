@@ -2,7 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&size=35&center=true&vCenter=true&width=1000&lines=Olá!,+Eu+sou+Vitor+Cerqueira🖐️;Bem+Vindo!👨‍💻+)](https://git.io/typing-svg)
 
-### Olá! Eu sou o Vitor Cerqueira 🖐️
 💼 Sou um desenvolvedor FrontEnd.<br>
 ❤️ Apaixonado por tecnologia.<br>
 🎨 "A web é minha tela em branco, e o código é minha tinta."
