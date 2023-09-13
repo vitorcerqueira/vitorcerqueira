@@ -2,17 +2,9 @@
 💼 Sou um desenvolvedor FrontEnd.<br>
 ❤️ Apaixonado por tecnologia.<br>
 🎨 "A web é minha tela em branco, e o código é minha tinta."
-<br>
+<br><br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-cerqueira-dos-santos-89768b147/)
-
-
-
-<div>
-<a href="https://github.com/vitorcerqueira">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorcerqueira&show_icons=true&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorcerqueira&layout=compact&langs_count=16&theme=dracula"/>
-</div>
-
+<br> 
 ## Tecnologias que eu uso no meu dia
 
 <div style="display:inline_block"><br/>
@@ -23,4 +15,13 @@
   <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </div>
 <br>
+
+
+<div>
+<a href="https://github.com/vitorcerqueira">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorcerqueira&show_icons=true&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorcerqueira&layout=compact&langs_count=16&theme=dracula"/>
+</div>
+
+
 
