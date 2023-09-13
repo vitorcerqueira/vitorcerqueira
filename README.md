@@ -1,4 +1,7 @@
 ### Olá! Eu sou o Vitor Cerqueira 🖐️
+💼 Sou um desenvolvedor FrontEnd.<br>
+❤️ Apaixonado por tecnologia.<br>
+🎨 "A web é minha tela em branco, e o código é minha tinta."
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-cerqueira-dos-santos-89768b147/)
 
 
@@ -19,6 +22,4 @@
   <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </div>
 <br>
-💼 Sou um desenvolvedor FrontEnd.<br>
-❤️ Apaixonado por tecnologia.<br>
-🎨 "A web é minha tela em branco, e o código é minha tinta."
+
