@@ -37,9 +37,7 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=vitorcerqueira&show_icons=true&count_private=true&hide_border=true&title_color=228B22&icon_color=228B22&text_color=F8F8FF&bg_color=000000" alt="vitorcerqueira github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorcerqueira&layout=compact&hide_border=true&title_color=228B22&text_color=F8F8FF&bg_color=000000" />
   
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vitorcerqueira&bg_color=1e0042&color=14cc2a&line=0c6e25&point=6103a0&area=true&hide_border=true)]([https://github.com/ashutosh00710/github-readme-activity-graph](https://github.com/vitorcerqueira))
-
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vitorcerqueira&bg_color=080808&color=0c6b00&line=007508&point=37e13a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph](https://github.com/vitorcerqueira))
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=228B22&height=120&section=footer"/>
 
