@@ -24,7 +24,11 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorcerqueira&show_icons=true&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorcerqueira&layout=compact&langs_count=16&theme=dracula"/>
 </div>
- 
+  
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vitorcerqueira&bg_color=1e0042&color=14cc2a&line=0c6e25&point=6103a0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vitorcerqueira&bg_color=050505&color=9e9e9e&line=fafafa&point=696969&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vitorcerqueira&bg_color=0d1117&color=FF00FF&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/vitorcerqueira)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
