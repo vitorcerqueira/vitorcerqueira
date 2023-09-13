@@ -1,7 +1,13 @@
 ### Olá! Eu sou o Vitor Cerqueira 🖐️
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-cerqueira-dos-santos-89768b147/)
 
-![vitorcerqueira GitHub stats](https://github-readme-stats.vercel.app/api?username=vitorcerqueira&show_icons=true&theme=dracula)
+
+
+<div>
+<a href="https://github.com/vitorcerqueira">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorcerqueira&show_icons=true&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorcerqueira&layout=compact&langs_count=16&theme=dracula"/>
+</div>
 
 ## Tecnologias que eu uso no meu dia
 
@@ -12,7 +18,7 @@
   <img align="center" alt="sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
   <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </div>
-<br>
-💼 Sou um desenvolvedor FrontEnd. <br>
-❤️ Apaixonado por tecnologia.<br>
+<BR>
+💼 Sou um desenvolvedor FrontEnd. 
+❤️ Apaixonado por tecnologia.
 🎨 "A web é minha tela em branco, e o código é minha tinta."
