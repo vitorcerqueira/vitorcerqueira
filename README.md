@@ -1,3 +1,7 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4B0082&size=35&center=true&vCenter=true&width=1000&lines=Olá!,+Eu+sou+Vitor+Cerqueira🖐️;Bem+Vindo!👨‍💻+)](https://git.io/typing-svg)
+
 ### Olá! Eu sou o Vitor Cerqueira 🖐️
 💼 Sou um desenvolvedor FrontEnd.<br>
 ❤️ Apaixonado por tecnologia.<br>
@@ -23,5 +27,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorcerqueira&layout=compact&langs_count=16&theme=dracula"/>
 </div>
   ![Snake animation](https://github.com/vitorcerqueira/vitorcerqueira/blob/output/github-contribution-grid-snake.svg)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vitorcerqueira&bg_color=0d1117&color=4C0099&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
