@@ -21,8 +21,7 @@
 <a href="https://github.com/vitorcerqueira">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorcerqueira&show_icons=true&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorcerqueira&layout=compact&langs_count=16&theme=dracula"/>
-  ![Snake animation](https://github.com/vitorcerqueira/vitorcerqueira/blob/output/github-contribution-grid-snake.svg)
 </div>
-
+  ![Snake animation](https://github.com/vitorcerqueira/vitorcerqueira/blob/output/github-contribution-grid-snake.svg)
 
 
