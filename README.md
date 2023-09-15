@@ -10,7 +10,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-cerqueira-dos-santos-89768b147/)
 <br> 
 
-
 <h2 align='center'><i>Tecnologias que eu uso no meu dia</i></h2>
 
 <table width="100">
@@ -36,10 +35,7 @@
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=vitorcerqueira&show_icons=true&count_private=true&hide_border=true&title_color=228B22&icon_color=228B22&text_color=F8F8FF&bg_color=000000" alt="vitorcerqueira github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorcerqueira&layout=compact&hide_border=true&title_color=228B22&text_color=F8F8FF&bg_color=000000" />
-  
-![Snake animation](https://github.com/vitorcerqueira/vitorcerqueira/blob/output/github-contribution-grid-snake.svg)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vitorcerqueira&bg_color=080808&color=0c6b00&line=007508&point=37e13a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph](https://github.com/vitorcerqueira))
-
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=228B22&height=120&section=footer"/>
