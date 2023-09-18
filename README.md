@@ -9,6 +9,11 @@
 
 </div>
 
+<div  align="center"> 
+  <div style="display: inline_block"><br>
+    <img align="left" height="250" alt="coding-time" src="code.gif">
+</div></div>
+ 
 🎓Análise e Desenvolvimento de Sistemas.<br>
 💼 Sou um desenvolvedor FrontEnd.<br>
 ❤️ Apaixonado por tecnologia.<br>
