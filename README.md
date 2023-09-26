@@ -19,6 +19,11 @@
   ❤️ Apaixonado por tecnologia.<br>
   🎨 "A web é minha tela em branco, e o código é minha tinta."<br>
 </div>
+<br><br>
+
+<p>Olá! Eu sou Vitor Cerqueira, um desenvolvedor front-end apaixonado por tecnologias e seus desafios. Sou formado em Análise e Desenvolvimento de Sistemas na Faculdade Multivix, decidi procurar uma formação para me aprofundar na área de programação. Estou em fase de transição de carreira, onde a maior parte da minha jornada de trabalho foi na área administrativa no setor do agronegócio, onde vivenciei que a tecnologia está em alta.<br><br>Atualmente, minhas especialidades são desenvolvimento web responsivo, utilizando as tecnologias HTML5, CSS3, JavaScript, Sass e Bootstrap. Também estou me aprofundando sobre React, TypeScript, Node.js e SQL.  </p>
+
+
 
 <h2 align='center'><i>Tecnologias que eu uso no meu dia</i></h2>
 
