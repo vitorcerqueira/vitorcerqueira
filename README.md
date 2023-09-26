@@ -48,6 +48,25 @@ Obrigado por visitar o Meu Perfil!🖐️👨‍💻
     </td>
   </tr>
 </table>
+<table width="100">
+  <tr>
+    <td align='center' width="290">
+      <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+    </td>
+    <td align='center' width="290">
+      <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+    </td>
+    <td align='center' width="290">
+      <img align="center" alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+    </td>
+    <td align='center' width="190">
+      <img align="center" alt="SQL" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
+    </td>
+    <td align='center'  width="290">
+      <img align="center" alt="Salesforce" src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white"/>
+    </td>
+  </tr>
+</table>
 
 <br>
 
