@@ -27,7 +27,7 @@ Obrigado por visitar o Meu Perfil!🖐️👨‍💻
 
 
 
-<h2 align='center'><i>Tecnologias que eu uso no meu dia</i></h2>
+<h2 align='center'><i>Tecnologias</i></h2>
 
 <table width="100">
   <tr>
