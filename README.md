@@ -21,7 +21,7 @@
 </div>
 <br><br>
 
-<p>Olá! Eu sou Vitor Cerqueira, desenvolvedor front-end apaixonado por tecnologias e seus desafios. Sou formado em Análise e Desenvolvimento de Sistemas na Faculdade Multivix, decidi procurar uma formação para me aprofundar na área de programação. Estou em fase de transição de carreira, onde a maior parte da minha jornada de trabalho foi na área administrativa no setor do agronegócio, onde vivenciei que a tecnologia está em grande crescimento.<br><br>Atualmente, minhas especialidades são desenvolvimento web responsivo, utilizando as tecnologias HTML5, CSS3, JavaScript, Sass e Bootstrap. Também estou me aprofundando sobre React, TypeScript, Node.js, SSQL e uma paixão aparte sobre Crm Salesforce.</p>
+<p>Olá! Eu sou Vitor Cerqueira, desenvolvedor front-end apaixonado por tecnologias e seus desafios. Sou formado em Análise e Desenvolvimento de Sistemas na Faculdade Multivix, decidi procurar uma formação para me aprofundar na área de programação. Estou em fase de transição de carreira, onde a maior parte da minha jornada de trabalho foi na área administrativa no setor do agronegócio, onde vivenciei que a tecnologia está em grande crescimento.<br><br>Atualmente, minhas especialidades são desenvolvimento web responsivo, utilizando as tecnologias HTML5, CSS3, JavaScript, Sass e Bootstrap. Também estou me aprofundando sobre React, TypeScript, Node.js, e SQL</p>
 <br>
 Obrigado por visitar o Meu Perfil!🖐️👨‍💻
 
@@ -62,9 +62,7 @@ Obrigado por visitar o Meu Perfil!🖐️👨‍💻
     <td align='center' width="190">
       <img align="center" alt="SQL" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
     </td>
-    <td align='center'  width="290">
-      <img align="center" alt="Salesforce" src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white"/>
-    </td>
+   
   </tr>
 </table>
 
