@@ -15,7 +15,7 @@
 
 <div align="left">
   🎓Análise e Desenvolvimento de Sistemas.<br>
-  💼 Sou um desenvolvedor FrontEnd.<br>
+  💼 Developer Beginner Salesforce | Apex | Front End Developer | Html5 | Css3 | Java Script.<br>
   ❤️ Apaixonado por tecnologia.<br>
   🎨 "A web é minha tela em branco, e o código é minha tinta."<br>
 </div>
