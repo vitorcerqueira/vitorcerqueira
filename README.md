@@ -21,9 +21,15 @@
 </div>
 <br><br>
 
-<p>Olá! Eu sou Vitor Cerqueira, desenvolvedor front-end apaixonado por tecnologias e seus desafios. Sou formado em Análise e Desenvolvimento de Sistemas na Faculdade Multivix, decidi procurar uma formação para me aprofundar na área de programação. Estou em fase de transição de carreira, onde a maior parte da minha jornada de trabalho foi na área administrativa no setor do agronegócio, onde vivenciei que a tecnologia está em grande crescimento.<br><br>Atualmente, minhas especialidades são desenvolvimento web responsivo, utilizando as tecnologias HTML5, CSS3, JavaScript, Sass e Bootstrap. Também estou me aprofundando sobre React, TypeScript, Node.js, e SQL</p>
+<p>Olá! Eu sou Vitor Cerqueira, apaixonado por tecnologias e seus desafios. Sou graduado em Análise e Desenvolvimento de Sistemas na Faculdade Multivix, decidi procurar uma formação para me aprofundar na área de programação. Estou em fase de transição de carreira, onde a maior parte da minha jornada de trabalho foi na área administrativa no setor do agronegócio, onde vivenciei que a tecnologia está em grande crescimento.<br><br>Atualmente, minhas especialidades são desenvolvimento web responsivo, utilizando as tecnologias HTML5, CSS3, JavaScript, e framework como sass e bootstrap. Também estou me aprofundando em Salesforce, Apex, React, TypeScript, Node.js, e SQL.</p>
 <br>
-Obrigado por visitar o Meu Perfil!🖐️👨‍💻
+Você pode acompanhar meu progresso em:<br>
+
+Trailhead: https://www.salesforce.com/trailblazer/vitor-cerqueira<br>
+
+GitHub: https://github.com/vitorcerqueira<br>
+
+Agradeço por visitar o meu perfil! 🖐️👨‍💻
 
 
 
