@@ -53,9 +53,10 @@ Agradeço por visitar o meu perfil! 🖐️👨‍💻
       <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
     </td>
   </tr>
-</table>
-<table width="100">
   <tr>
+    <td align='center' width="290">
+      <img align="center" alt="SalesForce" src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white"/>
+    </td>
     <td align='center' width="290">
       <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
     </td>
