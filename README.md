@@ -27,7 +27,7 @@ Você pode acompanhar meu progresso em:<br>
 
 Trailhead: https://www.salesforce.com/trailblazer/vitor-cerqueira<br>
 
-GitHub: https://github.com/vitorcerqueira<br>
+linkedin: https://www.linkedin.com/in/vitor-cerqueira-dos-santos-89768b147/<br>
 
 Agradeço por visitar o meu perfil! 🖐️👨‍💻
 
